@@ -1,6 +1,11 @@
+---
+layout: default
+title: Welcome & Quickstart
+---
+
 ## Welcome to the RocketSockets Documentation
 
-## Configuration
+### Configuration
 
 To start WebSockets servers, use the "StartWebSocketsServer \[port\]" command.
 
