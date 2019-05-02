@@ -4,7 +4,7 @@ title: Welcome & Quickstart
 permalink: /
 ---
 
-## Welcome to the RocketSockets Documentation
+## Welcome to the [RocketSockets](https://rocketsockets.network/) Documentation
 
 ### Configuration
 
