@@ -8,9 +8,9 @@ permalink: /
 
 ### Configuration
 
-To start WebSockets servers, use the "StartWebSocketsServer \[port\]" command.
+To start WebSockets servers, use the `StartWebSocketsServer \[port\]` command.
 
-To stop WebSockets servers, use the "StopWebSocketsServer \[port\]" command.
+To stop WebSockets servers, use the `StopWebSocketsServer \[port\]` command.
 
 Make sure that your "Unity Binary Connection Port" matches in both Unity and `appsettings.json.`
 
