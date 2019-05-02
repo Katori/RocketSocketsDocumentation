@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome & Quickstart
+permalink: /
 ---
 
 ## Welcome to the RocketSockets Documentation
