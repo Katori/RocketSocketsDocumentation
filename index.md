@@ -7,9 +7,11 @@ nav_order: 1
 
 ## Welcome to the [RocketSockets](https://rocketsockets.network/) Documentation
 
-### Configuration
+### Configuration & QuickStart
 
-To start WebSockets servers, use the `StartWebSocketsServer [port]` command.
+To start RocketSockets, start the binary provided for your platform in a shell. RocketSockets will automatically start 1 WebSockets server on the port indicated in [appsettings.json](/appsettings).
+
+To start additional WebSockets servers, use the `StartWebSocketsServer [port]` command.
 
 To stop WebSockets servers, use the `StopWebSocketsServer [port]` command.
 
