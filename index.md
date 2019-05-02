@@ -9,7 +9,7 @@ nav_order: 1
 
 ### Configuration & QuickStart
 
-To start RocketSockets, start the binary provided for your platform in a shell. RocketSockets will automatically start 1 WebSockets server on the port indicated in [appsettings.json](/appsettings).
+To start RocketSockets, start the binary provided for your platform in a shell. RocketSockets will automatically start 1 WebSockets server on the port indicated in [appsettings.json]({% link appsettings.md %}).
 
 To start additional WebSockets servers, use the `StartWebSocketsServer [port]` command.
 
