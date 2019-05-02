@@ -5,6 +5,8 @@ permalink: /changelog
 nav_order: 2
 ---
 
+# Changelog
+
 ## Version 1.0 - 05/02/2019
 
 - Welcome to RocketSockets!
