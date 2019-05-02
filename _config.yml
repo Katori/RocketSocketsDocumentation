@@ -2,3 +2,4 @@ remote_theme: pmarsceill/just-the-docs
 title: RocketSockets Documentation
 description: Documentation for https://rocketsockets.network
 color_scheme: "dark"
+site.baseurl: /
